@@ -32,7 +32,7 @@ L.control.layers(baseMaps).addTo(map);
 // Accessing the airport GeoJSON URL
 // Accessing the Toronto airline routes GeoJSON URL.
 // Accessing the Toronto neighborhoods GeoJSON URL.
-let torontoHoods = "https://raw.githubusercontent.com/jaredcclarke/Mapping_Earthquakes/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json";
+let torontoHoods = "https://raw.githubusercontent.com/jaredcclarke/Mapping_Earthquakes/main/torontoNeighborhoods.json";
 
 //Create a style for the lines.
 let myStyle = {
